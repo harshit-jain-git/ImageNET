@@ -2,7 +2,7 @@
 An ImageClassifier made using tensorflow's inception-v3
 
 What it does :
-It classifies an input image into one of these four categories -- 1) Human Beings
+It classifies an input image into one of these four categories -- 1) Human Beings \\
                                                                   2) Plants
                                                                   3) Animals
                                                                   4) Buildings
