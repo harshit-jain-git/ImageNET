@@ -22,6 +22,7 @@ How to use :
                                                                                3) Animals
                                                                                4) Buildings
 
+
 How we made :
 
 This is made by retraining the well known tensorflow's image classifier Inception-v3 by removing it's final layer and developing
