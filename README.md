@@ -2,9 +2,12 @@
 An ImageClassifier made using tensorflow's inception-v3
 
 What it does :
-It classifies an input image into one of these four categories -- 1) Human Beings \\
+It classifies an input image into one of these four categories -- 1) Human Beings
+
                                                                   2) Plants
+                                                                  
                                                                   3) Animals
+                                                                  
                                                                   4) Buildings
 
 How to use :
@@ -18,8 +21,11 @@ How to use :
    --image = < Path to Image >
    
    You will get the result as the probabilities of the input image to be of -- 1) Human Beings
+   
                                                                                2) Plants
+                                                                               
                                                                                3) Animals
+                                                                               
                                                                                4) Buildings
 
 
