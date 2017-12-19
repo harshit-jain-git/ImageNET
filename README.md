@@ -23,8 +23,10 @@ How to use :
                                                                                4) Buildings
 
 How we made :
+
 This is made by retraining the well known tensorflow's image classifier Inception-v3 by removing it's final layer and developing
 the output layer based on the training images given divided in the above four categories.
 
 For Documentation, please refer to - https://www.tensorflow.org/tutorials/image_retraining
+
 Training Images are taken from - http://www.image-net.org
